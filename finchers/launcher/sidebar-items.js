@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["launch","Create an instance of `Launcher` from the specified endpoint."]],"struct":[["Launcher","A launcher of HTTP server which contains an endpoint and some configurations."]],"trait":[["LaunchEndpoint","A trait representing a constraint used in the definition of `Launcher<E>`."]]});

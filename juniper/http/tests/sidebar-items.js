@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["run_http_test_suite",""]],"struct":[["TestResponse","Normalized response content we expect to get back from the http framework integration we are testing."]],"trait":[["HTTPIntegration","Normalized way to make requests to the http framework integration we are testing."]]});

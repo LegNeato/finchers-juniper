@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["from_csv","Deserialize a comma-separated string to a sequence of `T`."]],"struct":[["QueryItems","An iterator over the elements of query items."],["Serde","A wrapper struct to add the implementation of `FromQuery` to `Deserialize`able types."]],"trait":[["FromQuery","Trait representing the transformation from a set of HTTP query."]]});

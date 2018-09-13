@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Never","A type which has no possible values."]],"fn":[["bad_request",""],["err_msg",""],["fail",""]],"struct":[["Error","A type which holds a value of `HttpError` in a type-erased form."]],"trait":[["HttpError","Trait representing error values from endpoints."]]});

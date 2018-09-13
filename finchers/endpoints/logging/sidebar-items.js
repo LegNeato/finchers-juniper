@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["logging","Create a wrapper for creating an endpoint which dumps log after resolving the future."],["logging_fn","Create a wrapper for creating an endpoint which dumps a log using the specified function."]],"struct":[["Info",""],["Logging",""]]});
